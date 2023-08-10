@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Gilang Gumelar**.\
+
+Saya seorang **Mahasiswa** di [Universitas Kuningan](https://uniku.ac.id/).\
+
+Saat ini saya sedang belajar frontend dan backend developer
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilanggumelar/)ku ya.
