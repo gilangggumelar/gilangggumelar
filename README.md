@@ -23,4 +23,4 @@ Saya seorang **Mahasiswa** di [Universitas Kuningan](https://uniku.ac.id/).\
 
 Saat ini saya sedang belajar frontend dan backend developer
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilanggumelar/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-gumelar-96b35621a/)ku ya.
